@@ -35,3 +35,4 @@ Run the main() method
 The data is saved in a file called output.csv in your root directory.
 📁 Project Structure
 linkedin-automation/ │ ├── src/main/java/ │ └── LinkedInScraper.java │ ├── drivers/ │ └── chromedriver.exe │ ├── output.csv ├── pom.xml └── README.md
+🧑‍💼 Author: Sowmiya P palanisowmiya96@gmail.com
